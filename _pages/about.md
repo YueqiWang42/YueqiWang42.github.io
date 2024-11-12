@@ -7,7 +7,7 @@ subtitle: Ph.D. Student at the University of Pittsburgh
 
 profile:
   align: false
-  image: avatar.JPEG
+  image: avatar.JPG
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
@@ -19,10 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am Sheng Li. I am currently a Ph.D. student in [Department of Computer Science](https://www.cs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree in Software Engineering from [Sichuan University](https://en.scu.edu.cn/), China, in 2020. 
-My research focuses on designing and optimizing efficient machine learning algorithms and systems, targeting both resource-constrained edge devices and powerful cloud servers.
+I am currenty a third-year Ph.D. student  in [Department of Computer Science](https://www.cs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree from Sun Yat-sen University in 2022.
 
-:sparkles: I am currently seeking internship opportunities as a research scientist, applied scientist, machine learning engineer, or software development engineer. Please feel free to contact me with any potential roles.
+My research interests lie primarily in the area of **computer architecture**, with a focus on virtual memory for multi-GPU.
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
