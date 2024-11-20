@@ -5,12 +5,12 @@
 
 @use "sass:color";
 
-// Colors, darkblune:324ab2,434184, 53589a
+// Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #ff8a00 !default;
 $blue-color: #0076df !default;
-$blue-color-dark: #434184 !default; 
+$blue-color-dark: #434184 !default;
 $cyan-color: #53589a !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
