@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by DAC 2023. Thanks to all collaborators!
+One paper is accepted by **DAC 2023**. Thanks to all collaborators!
 
 
 <!-- A simple inline announcement. -->

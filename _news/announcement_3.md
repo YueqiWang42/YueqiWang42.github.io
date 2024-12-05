@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by HPCA 2024. Thanks to all collaborators!
+One paper is accepted by **HPCA 2024**. Thanks to all collaborators!
 
 <!-- ---
 layout: post
