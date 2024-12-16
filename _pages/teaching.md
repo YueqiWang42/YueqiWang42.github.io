@@ -58,6 +58,7 @@ nav_order: 3
 
 
 * 2023, Student Travel Grant, MICRO 
-* 2020, Google APAC Women Techmakers Scholarship. 
-* 2020, Sun Yat-sen University Scholarship. 
-* 2019, Sun Yat-sen University Scholarship. 
+* 2020, <a href="https://developers.google.com/womentechmakers">
+                    <font style="color:#4285F4">G</font><font style="color:#DB4437">o</font><font style="color:#F4B400">o</font><font style="color:#4285F4">g</font><font style="color:#0F9D58">l</font><font style="color:#DB4437">e</font> APAC Women Techmakers Scholarship</a>
+* 2020, Sun Yat-sen University Scholarship
+* 2019, Sun Yat-sen University Scholarship
